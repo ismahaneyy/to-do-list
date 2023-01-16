@@ -1,3 +1,9 @@
+:root{
+  --blue:rgb(0, 89, 255)
+  --colorTwo:
+
+}
+
 .App {
   text-align: center;
 }
@@ -35,4 +41,14 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+.navbar{
+  size: 30px;
+  justify-content: right;
+}
+
+.footer{
+  background-color:brown
 }

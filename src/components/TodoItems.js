@@ -1,11 +1,18 @@
 
-
-
 function TodoItems(){
     return (
-    <></>
+    <div>
+        <h3>
+            Learn about react
+        </h3>
+        <p>
+            lorem ipsum 
+        </p>
+    </div>
     )
     }
     
-export default TodoItems
+
+ //main component to be exported 
+export default TodoItems 
     
